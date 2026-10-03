@@ -1,0 +1,1 @@
+TOKEN=open(".dash_token", encoding="utf-8").read().strip()

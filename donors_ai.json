@@ -1,0 +1,2529 @@
+[
+ {
+  "id": 0,
+  "un": "hiaimedia",
+  "title": "Hi, AI • Новости технологий",
+  "subs": 2630828,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1848122804,
+  "un": "",
+  "title": "Цифровой Журнал | IT, Neiroseti",
+  "subs": 1864266,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1794988016,
+  "un": "GPTMainNews",
+  "title": "GPT | ChatGPT | Midjourney — GPTMain News",
+  "subs": 1658130,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2760658882,
+  "un": "",
+  "title": "ChatGPT | DeepSeek ⚡",
+  "subs": 372939,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1603435168,
+  "un": "neuraldvig",
+  "title": "Нейродвиж",
+  "subs": 294762,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1886372774,
+  "un": "gpt_news",
+  "title": "AI News | Нейросети",
+  "subs": 288306,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1513930522,
+  "un": "",
+  "title": "TechGPT [🅽 🅴 🆆 🆂] 🤖",
+  "subs": 271218,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1508270003,
+  "un": "gptpublic",
+  "title": "ChatGPT | Нейросети",
+  "subs": 270211,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2894018050,
+  "un": "slidy_ai",
+  "title": "Нейросеть для презентаций | Slidy.ai",
+  "subs": 184326,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2997991729,
+  "un": "neyrosetkapic",
+  "title": "НЕЙРО |Новости AI",
+  "subs": 150809,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1622380211,
+  "un": "technology_AI_program_IT",
+  "title": "💻 ТЕХНОЛОГИИ Разработка Кодинг",
+  "subs": 93845,
+  "topic": "IT/код"
+ },
+ {
+  "id": 3186925112,
+  "un": "balahninaII",
+  "title": "ИИ генерации |ПРОМТЫ | нейросети",
+  "subs": 72253,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1747342257,
+  "un": "prompts_ai_channel",
+  "title": "Nano Banana Prompts | Промпты для ИИ",
+  "subs": 71500,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1476959149,
+  "un": "vistehno",
+  "title": "Искусственный интеллект. Высокие технологии",
+  "subs": 71290,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1555418015,
+  "un": "vibecoding_tg",
+  "title": "Вайб-кодинг",
+  "subs": 62975,
+  "topic": "IT/код"
+ },
+ {
+  "id": 1985843105,
+  "un": "pro_ai_novosti",
+  "title": "Мир нейросетей - новости, обучение и заработок",
+  "subs": 50430,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1797783850,
+  "un": "dailyprompts",
+  "title": "Ринат Шакиров | Промпты для Midjourney | ChatGPT |",
+  "subs": 42700,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2116004666,
+  "un": "pro_ai_official",
+  "title": "PRO AI | ПОЛЕЗНЫЙ СОФТ | НОВОСТИ",
+  "subs": 41445,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2394760599,
+  "un": "generalov_ai_agents",
+  "title": "Илья Генералов | AI-агенты, n8n, Vibe Coding",
+  "subs": 40194,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1292770874,
+  "un": "Shutter",
+  "title": "Midjourney/Nano Banana Prompts NeuroSpark",
+  "subs": 39556,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1894612751,
+  "un": "",
+  "title": "Промпты для нейросетей",
+  "subs": 30018,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1859758966,
+  "un": "digital_midjourney",
+  "title": "Midjourney | Диджитал",
+  "subs": 29320,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2347018673,
+  "un": "n2d2ai",
+  "title": "N2D2 AI - нейросети для контента",
+  "subs": 24855,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1213309199,
+  "un": "midjourneyneiroseti",
+  "title": "Midjourney / Нейросеть / Нейронка № 7053203535",
+  "subs": 24091,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1844257947,
+  "un": "mdjrny",
+  "title": "MIDJOURNEY (Нейросеть)",
+  "subs": 23515,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1108987859,
+  "un": "ai_python",
+  "title": "DLeX: AI Python",
+  "subs": 21391,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1140774714,
+  "un": "zrabota",
+  "title": "АйТи Вакансии. ИИ Работа. Фриланс. Удаленка",
+  "subs": 21301,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2104522003,
+  "un": "ChatGPTrue",
+  "title": "ChatGPTrue | Новости про AI и Технологии",
+  "subs": 20384,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1619658311,
+  "un": "ksushatort_krd",
+  "title": "Идеальные ИИ ПРОМПТЫ/ KsushaTort",
+  "subs": 18328,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2672658116,
+  "un": "ArtEarn",
+  "title": "Артем Слабун - Заработок на YouTube и Нейросетях",
+  "subs": 17911,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2802537084,
+  "un": "sobolevalizfoto",
+  "title": "Создание ИИ фотографий 😍Промпты",
+  "subs": 17356,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2889232641,
+  "un": "GptWBpromt",
+  "title": "GptWB | ПРОМПТЫ ДЛЯ ФОТО",
+  "subs": 17328,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1087051827,
+  "un": "vsevolodustinovchannel",
+  "title": "Всеволод Устинов (канал: ai, стартапы, пост-ирония)",
+  "subs": 16868,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1608212636,
+  "un": "MidJourney",
+  "title": "No Midjourney",
+  "subs": 16858,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2373171919,
+  "un": "neurolena1",
+  "title": "НейроЛена | Промпты и гайды по нейросетям",
+  "subs": 16676,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1842597804,
+  "un": "ai_nox",
+  "title": "Stable Diffusion & СhatGPT & SDXL — Новости",
+  "subs": 16574,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3437036078,
+  "un": "AIaudiobooks",
+  "title": "AIaudiobooks.org - новости",
+  "subs": 16562,
+  "topic": "Новости/Tech"
+ },
+ {
+  "id": 1774404107,
+  "un": "chat_gptgpt",
+  "title": "НейроGod Промты/ Claude prompt",
+  "subs": 16474,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2740687728,
+  "un": "BauerMarya",
+  "title": "ПРОМПТЫ l подружка MARY",
+  "subs": 14963,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 4328242640,
+  "un": "codex_resets",
+  "title": "Codex Resets Alert",
+  "subs": 14481,
+  "topic": ""
+ },
+ {
+  "id": 2544166433,
+  "un": "dolly_ai_prompts",
+  "title": "Dolly AI | Идеи Промпты",
+  "subs": 14117,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3387743351,
+  "un": "aiseven_webinar",
+  "title": "Контент-завод + Автоматизация",
+  "subs": 13676,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1616816889,
+  "un": "maya_pro",
+  "title": "🥇Ковчег / автоматизация make.com и Cursor AI",
+  "subs": 12503,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1683537004,
+  "un": "vshai_io",
+  "title": "Заработок на нейросетях | Высшая Школа Искусственного Интеллекта",
+  "subs": 11473,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3870287996,
+  "un": "aigul_prokontent",
+  "title": "Айгуль про контент",
+  "subs": 11423,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1546469991,
+  "un": "kuznicon",
+  "title": "Кузница Контента AI",
+  "subs": 11368,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2178062396,
+  "un": "Ai_news_gpt4",
+  "title": "MikeAI | Все о нейросетях и блоге",
+  "subs": 11318,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1471158175,
+  "un": "blogherb",
+  "title": "❤️БАД без переплат 🌿Айхерб 🌿",
+  "subs": 10983,
+  "topic": "IT/код"
+ },
+ {
+  "id": 2170970349,
+  "un": "MangaSakii",
+  "title": "MangaSaki AI • Новости",
+  "subs": 10549,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neirobarsik",
+  "title": "Подкаст Котов | Нейросети | Обучение | Заказы",
+  "subs": 9997,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "LLMScience",
+  "title": "Data Portal | DS & ML",
+  "subs": 9904,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AI_artz",
+  "title": "AI Art Gallery 🎨 |Creative Prompts|",
+  "subs": 9775,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2343842463,
+  "un": "promtychatgpt",
+  "title": "AI промпты | Нейросети | Генерация фото",
+  "subs": 9726,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "",
+  "title": "Nerual Dreming и нейросети",
+  "subs": 9671,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1674325889,
+  "un": "Midjourney_A1",
+  "title": "Midjourney, SORA & DALL: IT, Нейросети",
+  "subs": 9585,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1558820665,
+  "un": "pro100_python",
+  "title": "Просто Python | Data science | ML | AI",
+  "subs": 9555,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2580134387,
+  "un": "svodkaai_ai",
+  "title": "ИИ — svodka.ai: краткие сводки каналов",
+  "subs": 9554,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "osenya_marketing",
+  "title": "Steven AI Marketing",
+  "subs": 9546,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "zabavnyzayats",
+  "title": "Ирина | НЕЙРОСЕТИ | ОБУЧЕНИЕ REELS | ТЕХНОЛОГИИ",
+  "subs": 9540,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "masterskaya_video",
+  "title": "🤖 | AI Мастерская Александра Фисенкова | Нейросети, Текст, Фото, Видео, Контент, ИИ",
+  "subs": 9530,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1221697713,
+  "un": "airdro_007",
+  "title": "Заработок на криптовалютах",
+  "subs": 9520,
+  "topic": "Крипто"
+ },
+ {
+  "id": 0,
+  "un": "TeamDemonMain",
+  "title": "😈 Daily Free Tools | AI, Software & Giveaways , Tech",
+  "subs": 9475,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3820695892,
+  "un": "CodeXSs0",
+  "title": "CODEX | JARVIS",
+  "subs": 9364,
+  "topic": "IT/код"
+ },
+ {
+  "id": 2123709127,
+  "un": "Aimasef",
+  "title": "Новости AIMA",
+  "subs": 9247,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ict_moscow_ai",
+  "title": "База знаний AI",
+  "subs": 9091,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "thisisvibecode",
+  "title": "Это вайбкодинг",
+  "subs": 9089,
+  "topic": "IT/код"
+ },
+ {
+  "id": 1780531805,
+  "un": "itjobs_nocode",
+  "title": "Вайб-кодинг | No Code",
+  "subs": 9049,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "zaripovadii",
+  "title": "SMM с Умом. Видео для Reels. Нейросети",
+  "subs": 8739,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "matvei_vibecoding",
+  "title": "Матвей про вайбкодинг",
+  "subs": 8712,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "vidslw",
+  "title": "Arts, prompts, tools of SD AI",
+  "subs": 8577,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1361283987,
+  "un": "free_prompts_ai",
+  "title": "AI Контент | Промпты | Пресеты",
+  "subs": 8481,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3327809551,
+  "un": "ai_rtem",
+  "title": "A.I.rtem Wolkov | AI-разработка & Автоматизации",
+  "subs": 8420,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "edvardgrishin27",
+  "title": "Гришин Эдвард | AI и автоматизация бизнеса",
+  "subs": 8407,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1413717623,
+  "un": "content_kuhnya",
+  "title": "AI КОНТЕНТ КУХНЯ",
+  "subs": 8260,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2174721748,
+  "un": "smm_top_vacancy",
+  "title": "SMM Фриланс Ai нейро вакансии работа от 80к",
+  "subs": 8155,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "digitalshkaf",
+  "title": "Digital Шкаф",
+  "subs": 7958,
+  "topic": "Новости/Tech"
+ },
+ {
+  "id": 0,
+  "un": "Sky_Net_AI",
+  "title": "SKYNET AI – НЕЙРОСЕТИ",
+  "subs": 7856,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aitalenthubnews",
+  "title": "Al Talent Hub",
+  "subs": 7725,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "kurs_na_video",
+  "title": "Нейросети | Обучение | kurs_na_video| Съемка и монтаж",
+  "subs": 7548,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2029879100,
+  "un": "chud_ai_news",
+  "title": "Chud AI | Новости",
+  "subs": 7359,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "seokotenkov",
+  "title": "Максим Котёнков: SEO и AI-автоматизация",
+  "subs": 7304,
+  "topic": "Заработок"
+ },
+ {
+  "id": 1497264738,
+  "un": "aitechdigital",
+  "title": "GPT-Tools – нейросети онлайн на русском языке",
+  "subs": 7143,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "outlinevpnv2rayng",
+  "title": "VPN Outline, Vless. 🚀Заработок в ИТ, нейросети",
+  "subs": 7107,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "",
+  "title": "Psy Eyes",
+  "subs": 6962,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ai_hub_money",
+  "title": "AI От веб-кодинга к вайб-кодингу 🔥",
+  "subs": 6881,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "codexsale",
+  "title": "Codex.Sale",
+  "subs": 6857,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aidivision",
+  "title": "Hейросети для бизнеса|Александр Чибисов",
+  "subs": 6836,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "chatgpt_daily_prompts",
+  "title": "ChatGPT & AI Daily Prompts",
+  "subs": 6756,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "midjornium",
+  "title": "Миджорниум - промпты и советы для нейросететей Midjourney, Dall-e, SD, и др.",
+  "subs": 6738,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "nexa_ai",
+  "title": "Нейросеть картинки | Nexa.ru",
+  "subs": 6548,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "NeuroLuv",
+  "title": "Нейролюб | Нейросети",
+  "subs": 6512,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "startup_fairy",
+  "title": "AlënaPro | AI-видимость для бизнеса",
+  "subs": 6402,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "marketing_engineer",
+  "title": "AI-Движ",
+  "subs": 6130,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "RixAiHub",
+  "title": "RixAI | Нейросети с кайфом",
+  "subs": 5993,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1762498243,
+  "un": "ai_berloga",
+  "title": "НЕЙРОСЕТИ ДЛЯ ЗАРАБОТКА",
+  "subs": 5887,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "Futuris",
+  "title": "Futuris",
+  "subs": 5880,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1940845238,
+  "un": "neirom",
+  "title": "Нейромережі",
+  "subs": 5645,
+  "topic": "Новости/Tech"
+ },
+ {
+  "id": 0,
+  "un": "projplus",
+  "title": "PROJECT+ | Нейросети",
+  "subs": 5425,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "lllovemargo",
+  "title": "lllovemargo | Нейросети | Обучение",
+  "subs": 5243,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "tekhnocafe",
+  "title": "Технокафе | Вайбкодинг | AI-агенты | Автоматизация.",
+  "subs": 5125,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "ideal_ai_news",
+  "title": "IDEAL AI | News | нейросети | ии тренды",
+  "subs": 4965,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "vizual_maker",
+  "title": "ВІЗУАЛ 📍 AI 📍 VISUAL ✸ Курс AI Visual Maker",
+  "subs": 4722,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2370188668,
+  "un": "claudedevolper",
+  "title": "claude dev - инструменты по claude code, gpt (вайб-кодинг)",
+  "subs": 4702,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "nerdhubchannel",
+  "title": "нёрд хаб",
+  "subs": 4648,
+  "topic": "Новости/Tech"
+ },
+ {
+  "id": 2110095907,
+  "un": "prog_ai",
+  "title": "Vibe Coding: OpenCode, Claude Code, Codex, Cursor, Kilo",
+  "subs": 4489,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AiBuSiNeS2",
+  "title": "AI-в Бизнесе | Нейросети для бизнеса |",
+  "subs": 4487,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neuro_prompty",
+  "title": "Промпты для нейросетей",
+  "subs": 4423,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "Nejrokotiki",
+  "title": "Нейросети и Котики Нейроюмор нейронка тренды кибер новости Шедеврум Алиса GigaChat YandexGPT смешные приколы Yaplakal Пикабу",
+  "subs": 4376,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "kisel_it",
+  "title": "Кисель в АйТи | AI и технологии",
+  "subs": 4362,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1847756937,
+  "un": "",
+  "title": "Саша про Нейросети | НейроПост",
+  "subs": 4311,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1686769185,
+  "un": "novosti_ii",
+  "title": "Искусственный Интеллект",
+  "subs": 4279,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "omggpt",
+  "title": "OMG GPT: Midjourney, DeepSeek, IT",
+  "subs": 4158,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3919003801,
+  "un": "codex_api_online",
+  "title": "CODEX API",
+  "subs": 4129,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "the_ai",
+  "title": "ИИ новости AI агенты / промпты",
+  "subs": 4076,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1997024223,
+  "un": "grillfilm",
+  "title": "CashWay i Заработок с Ai",
+  "subs": 4021,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "gizu_ru",
+  "title": "Юрий Гизатуллин ⚡️ Фаундер по жизни",
+  "subs": 4012,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "heysasshh",
+  "title": "heysasshh • нейросети • обучение",
+  "subs": 4009,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "larchanka",
+  "title": "Миша Ларченко – о программировании и не только",
+  "subs": 3999,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1917757674,
+  "un": "buhaistrikalos",
+  "title": "Кирилл строит SaaS | Вайб-кодинг + запуск продуктов",
+  "subs": 3997,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "ideal_ai_course",
+  "title": "НЕЙРОСЕТИ | ОБУЧЕНИЕ",
+  "subs": 3956,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1743751923,
+  "un": "AI_UD",
+  "title": "Искусственный Интеллект (дайджест)",
+  "subs": 3899,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "myspacet_ai",
+  "title": "Таня Румянцева | Нейросети и Автоматизация",
+  "subs": 3866,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "traffic_and_al",
+  "title": "Трафик и нейросети 2026 | Конференция",
+  "subs": 3866,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2101053279,
+  "un": "pavlenkopro",
+  "title": "Solo Founder / Pavlenko (SaaS, AI, стартапы)",
+  "subs": 3591,
+  "topic": "Маркетинг"
+ },
+ {
+  "id": 0,
+  "un": "themanage_ai",
+  "title": "Нейросети для бизнеса l Пановы",
+  "subs": 3554,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3625812125,
+  "un": "aigrams_ai",
+  "title": "AiGram | ИИ | Канал",
+  "subs": 3544,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "yefimov_ai",
+  "title": "Yefimov AI 🚀 Автоматизация & Бизнес",
+  "subs": 3530,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AlStack",
+  "title": "иишко",
+  "subs": 3492,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "eorlov_ai",
+  "title": "Евгений Орлов | ИИ для бизнеса 🤖",
+  "subs": 3443,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "sozday_design_olga",
+  "title": "Создай Дизайн с Ольгой Бойко | Нейросети для дизайна интерьера",
+  "subs": 3413,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "chetgpt3",
+  "title": "ChatGPT | Midjourney - Tricks | tips | GPTGuides",
+  "subs": 3409,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aidailywire",
+  "title": "AI News Daily — Tools & Tech",
+  "subs": 3396,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "VVS_STUDIO_AI",
+  "title": "ВВС СТУДИО",
+  "subs": 3243,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1581376184,
+  "un": "neuro_ula",
+  "title": "Нейромагия 🪄 | Нейросети для маркетинга, бизнеса, заработка",
+  "subs": 3166,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "dennisbabych",
+  "title": "Dennis Babych - Business. Productivity. AI.",
+  "subs": 3155,
+  "topic": ""
+ },
+ {
+  "id": 2251197985,
+  "un": "midjourneynnks",
+  "title": "Nano BananoPro | ChatGPT 5 | VEO 3",
+  "subs": 3115,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3696499095,
+  "un": "theaivinci",
+  "title": "AI Vinci | Промпты • ИИ • Новости",
+  "subs": 3104,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ai_vibe",
+  "title": "🟢 Человечный интеллект",
+  "subs": 3063,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "dmitrii_digital",
+  "title": "Дима про AI и маркетинг",
+  "subs": 2938,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ProductivityRSS",
+  "title": "Aizex 合租面板",
+  "subs": 2820,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aisapiens",
+  "title": "AI Sapiens | Нейросети и ИИ",
+  "subs": 2763,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2847936029,
+  "un": "kaprevs",
+  "title": "aida I Перевод текстов I Фриланс",
+  "subs": 2739,
+  "topic": "Заработок"
+ },
+ {
+  "id": 0,
+  "un": "ii_papka",
+  "title": "Вездесущий ИИ | Лучшие нейросети",
+  "subs": 2699,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "Victoriya_Academy",
+  "title": "Victoria's Vibe 🍓 AI образование",
+  "subs": 2693,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "promtalex",
+  "title": "Нейросети для контента |Промпты | ИИ-Креатор",
+  "subs": 2686,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "translateCourse",
+  "title": "AI Knows - Перевод курсов",
+  "subs": 2618,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1650226887,
+  "un": "aibizideas",
+  "title": "БИЗНЕС-ИДЕИ I про заработок",
+  "subs": 2552,
+  "topic": "Заработок"
+ },
+ {
+  "id": 0,
+  "un": "bananzip",
+  "title": "банан.zip",
+  "subs": 2510,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "CodeNovaAI",
+  "title": "الذكاء الاصطناعي | Nova AI",
+  "subs": 2493,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "SIPOUT_ai",
+  "title": "SIPOUT.AI Нейросервисы для бизнеса | Сипаут",
+  "subs": 2469,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ultravibecoder",
+  "title": "Ультра ВайбКодер🫵",
+  "subs": 2449,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "unterberg_ai",
+  "title": "№1в Ai для бизнеса | Глеб Унтерберг▶️",
+  "subs": 2441,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "code_stars",
+  "title": "Code Stars",
+  "subs": 2433,
+  "topic": "IT/код"
+ },
+ {
+  "id": 2174792585,
+  "un": "ai_useful_ai",
+  "title": "Нейросети | Искусственный интеллект",
+  "subs": 2370,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3845724714,
+  "un": "claude_popusk",
+  "title": "Claude Popusk News",
+  "subs": 2370,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "Creative_Volshba_KJ",
+  "title": "✴️Креативная волшба Крис | RealSWorld🌍",
+  "subs": 2351,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "OESMinePulse",
+  "title": "OES | Heavy AI",
+  "subs": 2306,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "natalya_fedotova_art",
+  "title": "AI PROMPTS | ИИ ПРОМПТЫ",
+  "subs": 2291,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3370429410,
+  "un": "aianback1",
+  "title": "Аянбек про ИИ, стартапы и бизнес",
+  "subs": 2261,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1155523607,
+  "un": "ilyabezdelev_blog",
+  "title": "Айтишный лытдыбр",
+  "subs": 2260,
+  "topic": ""
+ },
+ {
+  "id": 0,
+  "un": "Chatgpt_tricksz",
+  "title": "CHATGPT TUTORIAL & TIPS",
+  "subs": 2253,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "usefultools1c",
+  "title": "1С и AI, полезные инструменты и сервисы, стандарты и паттерны",
+  "subs": 2240,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1281839122,
+  "un": "aipunk_news",
+  "title": "Тайный Санта | AI Punk Разработка ботов",
+  "subs": 2220,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "kseniyAIpromt",
+  "title": "AI-SPACE | Промты | Тренды | AI-фото",
+  "subs": 2217,
+  "topic": ""
+ },
+ {
+  "id": 0,
+  "un": "mrktng_ai",
+  "title": "Marketing & AI",
+  "subs": 2182,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "tellmeksush",
+  "title": "Ксюш, расскажи как? | Лайфхаки AI & SMM",
+  "subs": 2137,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 4473946086,
+  "un": "claude_mania",
+  "title": "Claude - мания | Вайбкодинг (vibecode), Codex, Cursor, AI",
+  "subs": 2108,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2573111245,
+  "un": "antonina_aixa",
+  "title": "Антонина Нейронкова ИИ канал",
+  "subs": 2028,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "lexel_channel",
+  "title": "Алексей Елисеев | Нейросети",
+  "subs": 1983,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2347057187,
+  "un": "hugaai",
+  "title": "Хуга • AI-контент и заработок",
+  "subs": 1935,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1837997196,
+  "un": "firstaihub",
+  "title": "Канал о заработке на ИИ #1",
+  "subs": 1934,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "editor_snap",
+  "title": "DAILY AI TOOLS",
+  "subs": 1925,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "robocounsel",
+  "title": "Robocounsel",
+  "subs": 1923,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2648212565,
+  "un": "ai_sashaa_blog",
+  "title": "🍅ТОМАТНАЯ ПАСТА",
+  "subs": 1901,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aikonten",
+  "title": "Промпты для нейросетей",
+  "subs": 1810,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2096831643,
+  "un": "IrinaandAI",
+  "title": "4И - Ирина и Искусственный Интеллект",
+  "subs": 1809,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "gptfromeva",
+  "title": "AI-системы для бизнеса | Ева Кац",
+  "subs": 1792,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AIGPTInsights",
+  "title": "ChatGPT | Midjourney - tricks tips and more",
+  "subs": 1749,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1664890874,
+  "un": "AiPythonMoney",
+  "title": "PYTHON MONEY",
+  "subs": 1715,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "easy_AI_tg",
+  "title": "ИИ для эксперта|Нейросети для контента",
+  "subs": 1656,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neuro_images",
+  "title": "Neuroimages | Арты от нейросетей",
+  "subs": 1656,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "marketinga_ai",
+  "title": "Marketinga_AI",
+  "subs": 1648,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "photo_ai_free",
+  "title": "AI FOR MODELS / CREATORS 📸",
+  "subs": 1645,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "vishenka_studio_ai",
+  "title": "Промпты для нейросетей от вишенки | vishenka.studio.ai",
+  "subs": 1641,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1874870948,
+  "un": "codextown",
+  "title": "Codex Town",
+  "subs": 1574,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2365160187,
+  "un": "kimi_k3h",
+  "title": "Континенталь Claude Кодер",
+  "subs": 1557,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "marketingkitsyachannel",
+  "title": "Маркетинг Киця & AI",
+  "subs": 1542,
+  "topic": "Маркетинг"
+ },
+ {
+  "id": 1414316137,
+  "un": "orna_codexRUS",
+  "title": "Orna.Codex",
+  "subs": 1479,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "nata_fri",
+  "title": "Ната Фри | Нейросети | Промты",
+  "subs": 1475,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "kpopope",
+  "title": "K-pop|айдолы|музыка|новости",
+  "subs": 1461,
+  "topic": "Новости/Tech"
+ },
+ {
+  "id": 0,
+  "un": "izum_ai",
+  "title": "Изюм - ИИ промпты, идеи, тренды (IZUM)",
+  "subs": 1427,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1939558647,
+  "un": "aitoolscollection",
+  "title": "ИИ инструменты / AI tools",
+  "subs": 1424,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aidialogs",
+  "title": "ИИ-кодинг ИИ-агентов",
+  "subs": 1409,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2508544528,
+  "un": "hugaaiwebinar",
+  "title": "Хуга • AI-контент и заработок",
+  "subs": 1407,
+  "topic": "Заработок"
+ },
+ {
+  "id": 0,
+  "un": "chatterfy",
+  "title": "Chatterfy.ai - CRM, AI чат боты для телеграм ⚡️",
+  "subs": 1407,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1919866659,
+  "un": "torrocrm",
+  "title": "Torro CRM - AI-агенты для Telegram",
+  "subs": 1356,
+  "topic": ""
+ },
+ {
+  "id": 1549691542,
+  "un": "businesssmmm",
+  "title": "BUSINESS SMM | ИИ ВАКАНСИЯ КАНАЛ",
+  "subs": 1331,
+  "topic": "Маркетинг"
+ },
+ {
+  "id": 0,
+  "un": "freedomschooll",
+  "title": "Freedom x AI | Бесплатный мини-курс",
+  "subs": 1325,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ustoz_no_code",
+  "title": "No-code | Ustoz AI",
+  "subs": 1285,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aiefn",
+  "title": "EFN Labs | AI-инструменты",
+  "subs": 1282,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3608214635,
+  "un": "claudenews",
+  "title": "Claude AI | Anthropic | Новости и код",
+  "subs": 1274,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "growth1hack",
+  "title": "Алекс Фриман | Взлом Роста | AI лидген и аутрич B2B",
+  "subs": 1273,
+  "topic": "Заработок"
+ },
+ {
+  "id": 0,
+  "un": "developer01010101",
+  "title": "developer0101 ai tools",
+  "subs": 1255,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2525729168,
+  "un": "AI_FreeLance_info",
+  "title": "AI-FreeLance | Заказы для фрилансеров",
+  "subs": 1226,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1262191425,
+  "un": "rainierala",
+  "title": "Rainier III открытый канал",
+  "subs": 1224,
+  "topic": ""
+ },
+ {
+  "id": 0,
+  "un": "aiVasilisa",
+  "title": "Vasilisa.ai — Ваша команда ИИ",
+  "subs": 1214,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2534651331,
+  "un": "codex_neiro",
+  "title": "Codex AI | Всё о нейросетях",
+  "subs": 1175,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "SyntxPrompts",
+  "title": "SyntxPromts Ai Neiroseti Нейро ИИ bot",
+  "subs": 1158,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neirohudojnik",
+  "title": "Neirохудожник | Нейросеть картинки | Промпты Midjourney | NanoBanana",
+  "subs": 1150,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3856328319,
+  "un": "alpanvi",
+  "title": "Альберт • Блог и AI-контент",
+  "subs": 1099,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2021003390,
+  "un": "codex_nubium",
+  "title": "Codex Nubium",
+  "subs": 1084,
+  "topic": ""
+ },
+ {
+  "id": 0,
+  "un": "ai4bus",
+  "title": "Ни слова о нейросетях",
+  "subs": 1080,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "bolshiedannye",
+  "title": "Big Data, AI and Machine Learning",
+  "subs": 1029,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ai_sapiens",
+  "title": "AI Sapiens | ИИ-помощники | Нейросети | Лайфхаки",
+  "subs": 999,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ai_dlya_novichkov",
+  "title": "Юлави | Музыка + AI",
+  "subs": 980,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AiHubFeed",
+  "title": "AiHub ✨ Приручаем ИИ | Вайб-кодинг | Ai-first development",
+  "subs": 976,
+  "topic": "IT/код"
+ },
+ {
+  "id": 1093770504,
+  "un": "sagandykova",
+  "title": "Aigerim Sagandykova's blog",
+  "subs": 973,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ksu_pro_neyro",
+  "title": "НЕЙРОСЕТИ ДЛЯ КОНТЕНТА",
+  "subs": 927,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1919589336,
+  "un": "ai_for_dev",
+  "title": "AI для Разработки — Claude | Cursor | Copilot",
+  "subs": 920,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aitoolsday",
+  "title": "AI Tools Daily",
+  "subs": 914,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "Art_frames_ai",
+  "title": "ArtFramesAI — AI Tutorials & Prompts",
+  "subs": 908,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "kyrsovarka",
+  "title": "КУРСОВАРКА-AI🤖",
+  "subs": 872,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "intelektII1",
+  "title": "💰НЕЙРОСЕТИ И ЗАРАБОТОК💰",
+  "subs": 817,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "videoeditschool",
+  "title": "Нейросети & Видеомонтаж 🎬🪄",
+  "subs": 814,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "dailyfreeaitools",
+  "title": "Daily Free AI Tools",
+  "subs": 798,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1763882647,
+  "un": "vladshipilov_ai",
+  "title": "Влад Шипилов | AI, стартапы, эмиграция",
+  "subs": 793,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "tex_spec1",
+  "title": "НЕЙРОСЕТИ | AI ОБУЧЕНИЕ | ПРОМТЫ",
+  "subs": 785,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aidevtoolszoomcamp",
+  "title": "AI Dev Tools Zoomcamp",
+  "subs": 774,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "free_republic_ai",
+  "title": "RePublic AI 🆓",
+  "subs": 773,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1822031127,
+  "un": "berezka_telegram",
+  "title": "BEREZOVSKAYA_On air",
+  "subs": 758,
+  "topic": ""
+ },
+ {
+  "id": 4342747979,
+  "un": "zawetqq",
+  "title": "zawetqq [vibe coding]",
+  "subs": 743,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1990999204,
+  "un": "istobzorov",
+  "title": "Python & AI",
+  "subs": 733,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "aitexhnology",
+  "title": "AI Инструменты | без воды",
+  "subs": 718,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ohfuture",
+  "title": "Oh! Future",
+  "subs": 708,
+  "topic": "Новости/Tech"
+ },
+ {
+  "id": 2147826318,
+  "un": "lilblackjes",
+  "title": "Канал Иисуса(Иоанна)☦️",
+  "subs": 693,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2666772767,
+  "un": "mamamojet_online",
+  "title": "МАМА МОЖЕТ | фриланс с AI",
+  "subs": 671,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AIArt25",
+  "title": "AI Художник | От картинки к карьере",
+  "subs": 652,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neuro_art_1",
+  "title": "Midjourney - промпты для нейросети",
+  "subs": 627,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2612382397,
+  "un": "Aiy_frilans",
+  "title": "АЙЯ | Трафик | Автоматизация бизнеса|",
+  "subs": 622,
+  "topic": "Маркетинг"
+ },
+ {
+  "id": 1182011360,
+  "un": "datascienceworld",
+  "title": "Data Science & AI News | ML, LLMs, Python, Quantum updates",
+  "subs": 615,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1425950161,
+  "un": "rusaeva_ya",
+  "title": "RUSAEVA | Нейросети для жизни и заработка",
+  "subs": 602,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1046302068,
+  "un": "technobropro",
+  "title": "ТехноБро. Вайб-кодинг. Про ИИ и все такое.",
+  "subs": 596,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3933441802,
+  "un": "vibecodingvibes",
+  "title": "VibeCodingVibes | Вайбкодинг. Cursor, Claude и AI-стартапы",
+  "subs": 592,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ideipitona",
+  "title": "ИдейныйHub💿📝Ai стартапы",
+  "subs": 584,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3223277648,
+  "un": "vibe_coding_jobs",
+  "title": "Вакансии для вайб-кодеров",
+  "subs": 579,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "bpa_tech",
+  "title": "БПА | Студия инноваций",
+  "subs": 574,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "GRNero",
+  "title": "GRNero Ai контент | советы | ai - лайфхаки | промты | neuroshiza",
+  "subs": 569,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AIfotochoot",
+  "title": "ИИ Фотосессии | Промты | AI Art Prompts | Генерации",
+  "subs": 564,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AlN_VIZ",
+  "title": "Alina | AI Visual Creator",
+  "subs": 564,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "no_agi",
+  "title": "No AGI | Нейросети и инструменты бесплатно",
+  "subs": 563,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "vibecode_memes",
+  "title": "Vibecoder | Мемы про вайбкодинг",
+  "subs": 561,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neuralrus",
+  "title": "Нейронные Нарративы",
+  "subs": 529,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2099100805,
+  "un": "ai_magic_tools",
+  "title": "AI Magic Tools | ИИ для преподавателей",
+  "subs": 519,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "gri_nada_gpt",
+  "title": "Нейросети и SMM для экспертов | Контент без стресса",
+  "subs": 513,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2132410146,
+  "un": "AI_venue",
+  "title": "ИИ конференция | канал",
+  "subs": 498,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "kyrsyspexa",
+  "title": "Реализуй Мечту - Обучение и заработок с нуля - Нейросети",
+  "subs": 490,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2123492495,
+  "un": "python_seo",
+  "title": "ChatGPT, AI, Python для SEO - автоматизация",
+  "subs": 486,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "IIgrushki_tut",
+  "title": "ИИГрушки 🍐ИИфотосессия | Генерация/оживление изображений",
+  "subs": 480,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3637604564,
+  "un": "codextocode",
+  "title": "от Кодекса к Коду | Клепцин",
+  "subs": 475,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neuro_experiment",
+  "title": "НейроКанал",
+  "subs": 450,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "zarabotok_v_decrete",
+  "title": "АННА I НЕЙРОСЕТИ НА ЛАЙТЕ",
+  "subs": 421,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aizool",
+  "title": "AI из Гаража | Просто про ИИ в бизнесе",
+  "subs": 421,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2401464661,
+  "un": "ailanafreelance",
+  "title": "Айлана | Фриланс обучения | Доход",
+  "subs": 403,
+  "topic": "Заработок"
+ },
+ {
+  "id": 2478568087,
+  "un": "copilotXTTR",
+  "title": "ИИ для бизнеса | Яна из XTTR",
+  "subs": 401,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AIcreativeforu",
+  "title": "ИИ Фото • видео • тексты • дизайн • промты",
+  "subs": 396,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "RealAIHub",
+  "title": "AI Hub 🚀 - Side Hustle | Earn Online | AI Courses | Prompts Library | Passive Income | Content Creation | ChatGPT | SEO Tools 💸",
+  "subs": 394,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "noctavere",
+  "title": "NOCTAVERE | Книги | Музыка | AI-видео",
+  "subs": 374,
+  "topic": ""
+ },
+ {
+  "id": 0,
+  "un": "seo_agents",
+  "title": "SEO Agents - AI тексты, которые дают ТОП",
+  "subs": 374,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "promptgpt_ai",
+  "title": "Prompt GPT | шаблоны, идеи, лайфхаки",
+  "subs": 362,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3638130957,
+  "un": "av_vibe_coding",
+  "title": "AV_Vibe-Кодинг",
+  "subs": 361,
+  "topic": "IT/код"
+ },
+ {
+  "id": 0,
+  "un": "MariaVGolovina",
+  "title": "Бизнес | Обучение ИИ ⚡️ChatGPT | Рекрутинг",
+  "subs": 356,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "nikita_ai_web3",
+  "title": "Никита | AI & Startups",
+  "subs": 351,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1921360509,
+  "un": "ClaudeirBeraldoInfo",
+  "title": "Claudeir Beraldo",
+  "subs": 349,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "tarina_probiznes",
+  "title": "Оксана | Нейросети для контента",
+  "subs": 348,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aimoricovers",
+  "title": "Ai Mori. Музыка 🎶",
+  "subs": 337,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2446928710,
+  "un": "aihohohoho",
+  "title": "Нейросети для заработка",
+  "subs": 319,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "Tim_nocode",
+  "title": "Tim AI & No-code",
+  "subs": 297,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neiro_vizual_nati",
+  "title": "НЕЙРОСЕТИ /ВИЗУАЛ /ЗАРАБОТОК",
+  "subs": 291,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "rabota_onlain_2026",
+  "title": "Нейросети без хайпа🌸",
+  "subs": 290,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "SpeechAIPro",
+  "title": "SpeechAI Pro",
+  "subs": 288,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "nerri_2026",
+  "title": "Нейросети. Просто. Доступно.",
+  "subs": 285,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "neiromagiya_contenta",
+  "title": "Блогерам: нейромагия контента 📣",
+  "subs": 275,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "gpt_neuro_top",
+  "title": "GPT TOP: Лучшее из мира нейросетей",
+  "subs": 270,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1936056214,
+  "un": "AI_tools1",
+  "title": "AI tools",
+  "subs": 268,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3925417981,
+  "un": "yeliseyprovibecoding",
+  "title": "Елисей про вайб кодинг",
+  "subs": 260,
+  "topic": "IT/код"
+ },
+ {
+  "id": 3399907190,
+  "un": "bot_dev_py_ai",
+  "title": "Telegram-боты на Python | aiogram",
+  "subs": 254,
+  "topic": "IT/код"
+ },
+ {
+  "id": 1210793025,
+  "un": "alekserovl",
+  "title": "Протокол Алияра | Маркетинг, AI, стартапы",
+  "subs": 247,
+  "topic": "Маркетинг"
+ },
+ {
+  "id": 0,
+  "un": "aistudio4u",
+  "title": "AI и Кодинг: Вдохновение и Решения.Майк Григорьев.",
+  "subs": 245,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3947341376,
+  "un": "Rose_NexusAI",
+  "title": "Rose AI | Vibe coding",
+  "subs": 241,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "annlatushkina_kanal",
+  "title": "Аня Латушкина про нейросети для новичков",
+  "subs": 241,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2514750560,
+  "un": "aideaxondemos",
+  "title": "ИИ-разработка для бизнеса",
+  "subs": 228,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "umnik_prompts",
+  "title": "Промпты для нейросетей | Umnik.AI",
+  "subs": 226,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "ai_barkov",
+  "title": "AI Builders Lab",
+  "subs": 220,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "promti_ai_2026",
+  "title": "Юлия | Нейросети |Для новичка",
+  "subs": 216,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "aipluspro",
+  "title": "ИИ просто | Обучение | Нейросети | ChatGPT | Nano Banana | Генеративный ИИ",
+  "subs": 213,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "codemaestroai",
+  "title": "For Advanced Game Developers and Playable Ads Creators (Code Maestro: AI coding co-pilot for gamedev and playable ads creating)",
+  "subs": 209,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 0,
+  "un": "AI_Art_Prompts_Hub",
+  "title": "AI Art Prompts Hub",
+  "subs": 203,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1877588992,
+  "un": "aii_tools",
+  "title": "ИИ 🛠 Инструмент",
+  "subs": 200,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1957032634,
+  "un": "udalenrabota59",
+  "title": "Нейросети для генерации иллюстраций, видео, для заработка💥✨✨",
+  "subs": 164,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3392062615,
+  "un": "business_news_ai",
+  "title": "AI Бизнес-тренды — Стартапы | Тренды | Кейсы",
+  "subs": 162,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1915411736,
+  "un": "mir_ait",
+  "title": "Сеньор Руслан | ИИ и стартапы",
+  "subs": 157,
+  "topic": "IT/код"
+ },
+ {
+  "id": 1155119606,
+  "un": "zarabotok_na_neirosetyah",
+  "title": "Заработок на Нейросетях",
+  "subs": 154,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3344190421,
+  "un": "FastDevLab",
+  "title": "FastDevLab — веб-разработка, SEO и AI без воды",
+  "subs": 139,
+  "topic": "IT/код"
+ },
+ {
+  "id": 1726933898,
+  "un": "ai_tools",
+  "title": "AI-TOOLS🏗️🇰🇿🪛🔧🔩🪚🧰🪜",
+  "subs": 133,
+  "topic": ""
+ },
+ {
+  "id": 2400192021,
+  "un": "dev_ai_agents",
+  "title": "Разработка ИИ Агентов",
+  "subs": 130,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3410936426,
+  "un": "vibecoding_one",
+  "title": "Vibe Coding и AI 🤖",
+  "subs": 126,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2109356700,
+  "un": "neural_courses",
+  "title": "Нейросети, вайбкодинг, Cursor AI | neural-courses.ru",
+  "subs": 122,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1749797853,
+  "un": "ai_tools_for_business",
+  "title": "AI для бизнеса",
+  "subs": 74,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3633239327,
+  "un": "silantevdev",
+  "title": "AI Разработка. Silantev Dev",
+  "subs": 57,
+  "topic": "IT/код"
+ },
+ {
+  "id": 3309337898,
+  "un": "zarabotok_ai1",
+  "title": "Сдвиг реальности | ИИ, технологии, безопасность",
+  "subs": 55,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3722918344,
+  "un": "vibecodexxx",
+  "title": "Ai мастерская | Vibe coding",
+  "subs": 53,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2040296938,
+  "un": "Seo_Python_AI",
+  "title": "SEO_Python = team",
+  "subs": 44,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 1761401113,
+  "un": "ai_novosti",
+  "title": "Эй! Ай! | Нейросети",
+  "subs": 42,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3567340283,
+  "un": "promptyo",
+  "title": "Promptyo",
+  "subs": 27,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2469367683,
+  "un": "AiK_Blog",
+  "title": "AiK",
+  "subs": 25,
+  "topic": ""
+ },
+ {
+  "id": 2348976561,
+  "un": "promptye",
+  "title": "Промпты",
+  "subs": 16,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2423792812,
+  "un": "promptyr",
+  "title": "Промпты",
+  "subs": 16,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2526560020,
+  "un": "ai_novosty",
+  "title": "Новости AI",
+  "subs": 7,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2830619582,
+  "un": "AII_Kontent",
+  "title": "AI Portfolio",
+  "subs": 6,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 3621105502,
+  "un": "vaib_koding",
+  "title": "Вайбс кодинг",
+  "subs": 3,
+  "topic": "IT/код"
+ },
+ {
+  "id": 4324391700,
+  "un": "kontent_AI",
+  "title": "Наталья Лукьянова AI",
+  "subs": 3,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 2281165113,
+  "un": "blog_ai",
+  "title": "Blog Ai",
+  "subs": 3,
+  "topic": "AI/нейросети"
+ },
+ {
+  "id": 4497590686,
+  "un": "",
+  "title": "New GPT",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1839881925,
+  "un": "Novosti_AI",
+  "title": "НовостИИ",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3459468532,
+  "un": "",
+  "title": "Midjourney | Nano Banana | Dalle",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3398323091,
+  "un": "",
+  "title": "Midjourney | Nano Banana Pro",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3436110738,
+  "un": "",
+  "title": "Claude & ChatGPT AI 🔥",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3317018754,
+  "un": "",
+  "title": "Claude ИИ/AI ⚡⚡⚡",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3774832909,
+  "un": "razrabotka_ai",
+  "title": "ИИ автоматизация - разработка",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1874053008,
+  "un": "",
+  "title": "COPILOTS",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1798189703,
+  "un": "CopilotX",
+  "title": "CopilotX",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2174674224,
+  "un": "ai_zarabotok",
+  "title": "💡Заработок на ИИ",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2056584870,
+  "un": "zarabotok_air",
+  "title": "Заработок телеграмме",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1997525172,
+  "un": "zarabotok_na_neirosetyakhq",
+  "title": "Заработок на нейросетях",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1711550597,
+  "un": "AStoreVid",
+  "title": "AIRSTORE | ОБЗОР",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1800419530,
+  "un": "airoha_obzor",
+  "title": "Обзоры Airoha",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2006885017,
+  "un": "academy_gp_ai",
+  "title": "Обзор ИИ для Академии",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2047629211,
+  "un": "surv_military",
+  "title": "SURV - Страйкбол - Airsoft - Снаряжение - Обзоры",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2048302165,
+  "un": "gonzo_AI_security",
+  "title": "Gonzo-обзоры AI Security/Safety",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2135539634,
+  "un": "ai_obzor",
+  "title": "Всё про ИИ (AI)",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3933074526,
+  "un": "obzor_ai",
+  "title": "AI без воды⚡️",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3064575810,
+  "un": "veo3neirosetsozdatvideobekhj",
+  "title": "Veo 3 Нейросеть Создать Видео Бесплатно",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1568517523,
+  "un": "",
+  "title": "Бесплатная нейросеть",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1584779036,
+  "un": "neiroset_besplatno",
+  "title": "чат gpt на русском онлайн без ограничений | чат гпд телеграм | чат джи пи ай | чат джи пи ти нейросеть онлайн | чат джпт 3",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1860116154,
+  "un": "besplatno_neiroset",
+  "title": "редактировать текст онлайн | 10 gpt | anime ai | gpt 3.5 | cheat gpt | опен ай | аи опен ай | опен аи | опен ая | c ai чат",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2449990071,
+  "un": "poleznoe_ai",
+  "title": "Полезные Гайды [AI]",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2929206939,
+  "un": "CosySpellll",
+  "title": "CosySpell | Промпты |AI гайды",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2497785405,
+  "un": "ai_kyznica",
+  "title": "AI Кузница | нейросети | промты | гайды |",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3570018182,
+  "un": "AraTechAi",
+  "title": "Ai ARA | ИИ | ПРОМПТЫ | ГАЙДЫ | ИНСТРУКЦИИ | ОБУЧЕНИЕ",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2149278201,
+  "un": "contorra_ru",
+  "title": "Техноблог Contorra.ru: игры, гайды, AI",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1847756937,
+  "un": "",
+  "title": "Саша про Нейросети | НейроПост",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 4497590686,
+  "un": "",
+  "title": "New GPT",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2760658882,
+  "un": "",
+  "title": "ChatGPT | DeepSeek ⚡",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 2046919287,
+  "un": "",
+  "title": "‼️ChatGPT6",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1513930522,
+  "un": "",
+  "title": "TechGPT [🅽 🅴 🆆 🆂] 🤖",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3459468532,
+  "un": "",
+  "title": "Midjourney | Nano Banana | Dalle",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3398323091,
+  "un": "",
+  "title": "Midjourney | Nano Banana Pro",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3436110738,
+  "un": "",
+  "title": "Claude & ChatGPT AI 🔥",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 3317018754,
+  "un": "",
+  "title": "Claude ИИ/AI ⚡⚡⚡",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 4399557031,
+  "un": "AI_FrontEnd_Python",
+  "title": "AI Frontender",
+  "subs": 0,
+  "topic": ""
+ },
+ {
+  "id": 1874053008,
+  "un": "",
+  "title": "COPILOTS",
+  "subs": 0,
+  "topic": ""
+ }
+]

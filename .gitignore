@@ -1,0 +1,21 @@
+# credentials / sessions / runtime state - NEVER commit
+*.session
+*.session-journal
+mass/
+mass_state_*.json
+react_progress.json
+seed_state.json
+sub_progress.json
+dress2_progress.json
+spambot_*.json
+peers.json
+alstack_reactions.json
+tgstat_parked.json
+enrich_parked.json
+enrich_progress.json
+inviter_state.json
+handoff_stats.json
+donor_members.json
+*.log
+__pycache__/
+*.pyc

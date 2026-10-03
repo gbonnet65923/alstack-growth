@@ -1,0 +1,101 @@
+[
+ {
+  "id": 8348347899,
+  "first": "Ahmed",
+  "last": "essam",
+  "user": null,
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusOffline"
+ },
+ {
+  "id": 765873016,
+  "first": "Ranis",
+  "last": null,
+  "user": "Ranis5467",
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 7448683285,
+  "first": "Reform",
+  "last": null,
+  "user": "ReformBoss",
+  "bot": false,
+  "premium": true,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 8621217841,
+  "first": "ZanAI",
+  "last": null,
+  "user": "ZanAIsuka_bot",
+  "bot": true,
+  "premium": false,
+  "seen": null
+ },
+ {
+  "id": 8377231659,
+  "first": "Mira",
+  "last": null,
+  "user": null,
+  "bot": true,
+  "premium": false,
+  "seen": null
+ },
+ {
+  "id": 6991196532,
+  "first": "offside",
+  "last": null,
+  "user": "offsixe",
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 8728016839,
+  "first": "\"⁧",
+  "last": null,
+  "user": "sgovs",
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 7266976959,
+  "first": "Hag",
+  "last": null,
+  "user": null,
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 1394585575,
+  "first": "Rezioo",
+  "last": "|",
+  "user": "rezioo",
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 7021222505,
+  "first": "Конгер",
+  "last": null,
+  "user": "konnnger",
+  "bot": false,
+  "premium": false,
+  "seen": "UserStatusRecently"
+ },
+ {
+  "id": 8586607208,
+  "first": "Theo",
+  "last": null,
+  "user": "uklatcv",
+  "bot": false,
+  "premium": true,
+  "seen": "UserStatusRecently"
+ }
+]

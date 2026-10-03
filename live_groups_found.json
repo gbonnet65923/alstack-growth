@@ -1,0 +1,680 @@
+[
+ {
+  "channel": "vakansii_chatgpt",
+  "title": "Вакансии • AI • вайбкодинг",
+  "linked_id": 3090378505,
+  "members": 6389,
+  "recent_human": 30,
+  "recent_senders": 23,
+  "direct": true
+ },
+ {
+  "channel": "pythonstepikchat",
+  "title": "🐍 Python Stepik Chat",
+  "linked_id": 1340588812,
+  "members": 9299,
+  "recent_human": 30,
+  "recent_senders": 13,
+  "direct": true
+ },
+ {
+  "channel": "chatpythonua",
+  "title": "Команда Python 🇺🇦",
+  "linked_id": 1712378162,
+  "members": 1462,
+  "recent_human": 27,
+  "recent_senders": 5,
+  "direct": true
+ },
+ {
+  "channel": "python_chatt",
+  "title": "Python чат",
+  "linked_id": 1853488227,
+  "members": 2668,
+  "recent_human": 30,
+  "recent_senders": 10,
+  "direct": true
+ },
+ {
+  "channel": "Oloid_X_AI",
+  "title": "Новички OLOID X AI | Общение • Помощь • Рост вместе",
+  "linked_id": 3676258071,
+  "members": 147,
+  "recent_human": 18,
+  "recent_senders": 4,
+  "direct": true
+ },
+ {
+  "channel": "carbon_ab_chat",
+  "title": "ИИ-помощник Бро по ремонту и обслуживанию электромобилей от 🛞 @CARBON_AB Wheels 🛞",
+  "linked_id": 1898230698,
+  "members": 180,
+  "recent_human": 9,
+  "recent_senders": 5,
+  "direct": true
+ },
+ {
+  "channel": "sgg_cht",
+  "title": "💭 Дизайн Чат • Нейросети, Фриланс 💸 Freepik • Нейросети • Midjourney • Krea • ChatGPT",
+  "linked_id": 1305302299,
+  "members": 1138,
+  "recent_human": 8,
+  "recent_senders": 5,
+  "direct": true
+ },
+ {
+  "channel": "SunoProHelp",
+  "title": "Suno Pro Help Чат",
+  "linked_id": 3105039577,
+  "members": 1705,
+  "recent_human": 27,
+  "recent_senders": 9,
+  "direct": true
+ },
+ {
+  "channel": "suno_fm_ru",
+  "title": "ЧАТ SUNO-FM.RU",
+  "linked_id": 3309089691,
+  "members": 167,
+  "recent_human": 8,
+  "recent_senders": 5,
+  "direct": true
+ },
+ {
+  "channel": "neuro_music_chat",
+  "title": "Suno.ai, Udio.com Chat",
+  "linked_id": 2134036826,
+  "members": 388,
+  "recent_human": 24,
+  "recent_senders": 6,
+  "direct": true
+ },
+ {
+  "channel": "aibox",
+  "title": "AIBOX",
+  "linked_id": 0,
+  "members": 22024,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 501
+ },
+ {
+  "channel": "chat_GPT_zerocoder",
+  "title": "ChatGPT Чат & Сообщество",
+  "linked_id": 0,
+  "members": 13335,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 66
+ },
+ {
+  "channel": "zerocoders",
+  "title": "Я — зерокодер",
+  "linked_id": 0,
+  "members": 17702,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 234
+ },
+ {
+  "channel": "machinee_learning",
+  "title": "Machine learning chat",
+  "linked_id": 0,
+  "members": 10641,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 244
+ },
+ {
+  "channel": "aitalkchat",
+  "title": "ИИ для родителей и учителей",
+  "linked_id": 0,
+  "members": 9485,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 117
+ },
+ {
+  "channel": "YFM_Community",
+  "title": "Yandex AI Studio",
+  "linked_id": 0,
+  "members": 8012,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 68
+ },
+ {
+  "channel": "ru_python",
+  "title": "Python",
+  "linked_id": 0,
+  "members": 15870,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 246
+ },
+ {
+  "channel": "qa_jobs",
+  "title": "QA — вакансии",
+  "linked_id": 0,
+  "members": 58669,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 303
+ },
+ {
+  "channel": "PROdevNews",
+  "title": "PRO.dev News | IT, AI, Разработка",
+  "linked_id": 0,
+  "members": 9700,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat",
+  "mau": 2
+ },
+ {
+  "channel": "uItra_crypt",
+  "title": "Ультра Крипта🚀 Трейдинг☄️Раздачи🚀Аналитика🚀Аирдропы🚀Листинги☄️Токены☄️BTC🚀USDT🚀Скальпинг🚀Биржи🚀Свап🚀Обмен🚀 Chat",
+  "linked_id": 2046475162,
+  "members": 246,
+  "recent_human": 30,
+  "recent_senders": 3,
+  "direct": true
+ },
+ {
+  "channel": "vibe_coders_zerocoder",
+  "title": "Vibe Coders Чат & Сообщество",
+  "linked_id": 2756587560,
+  "members": 766,
+  "recent_human": 12,
+  "recent_senders": 6,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "Noob_Coders_CSharp",
+  "title": "NoobCoders - Учим C# | {Чат}",
+  "linked_id": 1776207421,
+  "members": 2734,
+  "recent_human": 30,
+  "recent_senders": 10,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "configs_alexawya",
+  "title": "@Python_EG /chat",
+  "linked_id": 1865622844,
+  "members": 358,
+  "recent_human": 30,
+  "recent_senders": 14,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "youtube_automatisation",
+  "title": "YouTube Академия/Автоматизация - Чат",
+  "linked_id": 2120077658,
+  "members": 4889,
+  "recent_human": 17,
+  "recent_senders": 11,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "chattrafer",
+  "title": "Чат - автоматизация Youtube",
+  "linked_id": 1894962846,
+  "members": 2196,
+  "recent_human": 27,
+  "recent_senders": 4,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "neurokartel_chat",
+  "title": "Нейрокартель | Автоматизация",
+  "linked_id": 2406123972,
+  "members": 1000,
+  "recent_human": 25,
+  "recent_senders": 8,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "n8n_community",
+  "title": "n8n Чат & Сообщество",
+  "linked_id": 1481574785,
+  "members": 9274,
+  "recent_human": 30,
+  "recent_senders": 8,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "chat_neuro",
+  "title": "Чат Ковчега / make.com / автоматизации Cursor AI",
+  "linked_id": 1648687289,
+  "members": 2083,
+  "recent_human": 10,
+  "recent_senders": 7,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "chatfreelans",
+  "title": "ФРИЛАНС ЧАТ | ВАКАНСИИ | УДАЛЁНКА",
+  "linked_id": 1516450376,
+  "members": 28448,
+  "recent_human": 30,
+  "recent_senders": 15,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "udalenka_chat_vakansii",
+  "title": "Биржа фриланса",
+  "linked_id": 1783901753,
+  "members": 8633,
+  "recent_human": 30,
+  "recent_senders": 15,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "freelanceFREEchat",
+  "title": "PUSH | Бесплатный Чат | Фриланс и Удалёнка",
+  "linked_id": 2699055079,
+  "members": 2525,
+  "recent_human": 30,
+  "recent_senders": 9,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "udalenka_chatik",
+  "title": "ФРИЛАНС 💻ЧАТ",
+  "linked_id": 1453053077,
+  "members": 16837,
+  "recent_human": 23,
+  "recent_senders": 22,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "FreelanceJob1",
+  "title": "Чат Фриланс | Вакансии | Удаленка",
+  "linked_id": 1188440734,
+  "members": 18513,
+  "recent_human": 28,
+  "recent_senders": 27,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "frilansc",
+  "title": "Фриланс ЧАТ/Удаленка",
+  "linked_id": 1265417273,
+  "members": 7350,
+  "recent_human": 26,
+  "recent_senders": 23,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "vakanssii",
+  "title": "ЧАТ ПОИСК РАБОТЫ ВАКАНСИИ ФРИЛАНС УДАЛЕНКА",
+  "linked_id": 1233411209,
+  "members": 12282,
+  "recent_human": 29,
+  "recent_senders": 26,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "cryptochatick",
+  "title": "Crypto Arbitrage - Chat",
+  "linked_id": 1370703142,
+  "members": 377,
+  "recent_human": 30,
+  "recent_senders": 4,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "ai_for_business_rus",
+  "title": "ИИ практики 💬 Чат",
+  "linked_id": 2248506317,
+  "members": 2831,
+  "recent_human": 26,
+  "recent_senders": 8,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "pygen_ru_comments",
+  "title": "Поколение Python 🐍 Chat",
+  "linked_id": 1540274560,
+  "members": 1648,
+  "recent_human": 27,
+  "recent_senders": 19,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "xopy_chat",
+  "title": "XO_Python (чат)",
+  "linked_id": 1301880978,
+  "members": 485,
+  "recent_human": 7,
+  "recent_senders": 3,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "neuralforum",
+  "title": "Neural Networks Forum",
+  "linked_id": 0,
+  "members": 16300,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat"
+ },
+ {
+  "channel": "webprogrammists",
+  "title": "Программисты. Чат",
+  "linked_id": 0,
+  "members": 22620,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat"
+ },
+ {
+  "channel": "itdogchat",
+  "title": "ITDog Chat",
+  "linked_id": 0,
+  "members": 18771,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat"
+ },
+ {
+  "channel": "rztkd_chat",
+  "title": "Rozetked Discuss",
+  "linked_id": 0,
+  "members": 24866,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat"
+ },
+ {
+  "channel": "routerich",
+  "title": "Routerich",
+  "linked_id": 0,
+  "members": 27195,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat"
+ },
+ {
+  "channel": "vacuum_chat",
+  "title": "vacuum/chat",
+  "linked_id": 0,
+  "members": 21467,
+  "recent_human": 10,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "tgstat"
+ },
+ {
+  "channel": "irinkaa_irinkaa",
+  "title": "ЧАТ ИРИНА | УДАЛЁНКА С НУЛЯ",
+  "linked_id": 1830703038,
+  "members": 2731,
+  "recent_human": 30,
+  "recent_senders": 17,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "aupchat",
+  "title": "Arbitrage Up Chat",
+  "linked_id": 1326449297,
+  "members": 191,
+  "recent_human": 22,
+  "recent_senders": 12,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "shotix_chat",
+  "title": "Shotix AI | Шотикс ИИ Чат",
+  "linked_id": 2437186098,
+  "members": 3577,
+  "recent_human": 29,
+  "recent_senders": 8,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "chat_IY",
+  "title": "Чат IY",
+  "linked_id": 1472400003,
+  "members": 210,
+  "recent_human": 26,
+  "recent_senders": 5,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "Aimiko_ru",
+  "title": "Aimiko_chat",
+  "linked_id": 1565810114,
+  "members": 4676,
+  "recent_human": 30,
+  "recent_senders": 15,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "airbnb_chat_ru",
+  "title": "Airbnb чат клиентов (неофициальный)",
+  "linked_id": 1864772229,
+  "members": 698,
+  "recent_human": 30,
+  "recent_senders": 6,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "free_lancers_world",
+  "title": "AiQL.RU | Чат ведёт ИИ",
+  "linked_id": 1225138023,
+  "members": 2244,
+  "recent_human": 19,
+  "recent_senders": 10,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "site_chat09",
+  "title": "Sport-ai.ru Chat",
+  "linked_id": 3823005943,
+  "members": 13067,
+  "recent_human": 29,
+  "recent_senders": 16,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "AirDropTON_rus",
+  "title": "TON AirDrop Чат",
+  "linked_id": 1609675611,
+  "members": 6403,
+  "recent_human": 27,
+  "recent_senders": 12,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": null,
+  "title": "Claude AI | Anthropic | Новости и код Chat",
+  "linked_id": 3573879349,
+  "members": 50,
+  "recent_human": 17,
+  "recent_senders": 12,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "nigha_Chat",
+  "title": "GigaChat",
+  "linked_id": 3524426259,
+  "members": 43,
+  "recent_human": 17,
+  "recent_senders": 3,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "eabotvn",
+  "title": "Chat - Vinabot.vn | MakeEA.com",
+  "linked_id": 1673393317,
+  "members": 1367,
+  "recent_human": 18,
+  "recent_senders": 9,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "gamedev_chat_rus",
+  "title": "Разработка игр | Unity | Геймдев чат📌",
+  "linked_id": 1640599373,
+  "members": 1526,
+  "recent_human": 27,
+  "recent_senders": 7,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "pydata_chat",
+  "title": "Python для анализа данных",
+  "linked_id": 1265406554,
+  "members": 3152,
+  "recent_human": 5,
+  "recent_senders": 3,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "python_dao",
+  "title": "Чат кодерской свалки",
+  "linked_id": 1885384177,
+  "members": 1464,
+  "recent_human": 25,
+  "recent_senders": 4,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "airfreight_russia",
+  "title": "чат АВИА логистика ✈️",
+  "linked_id": 1739682112,
+  "members": 1648,
+  "recent_human": 30,
+  "recent_senders": 10,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "Arbitrage2020_chat",
+  "title": "Обучение арбитражу трафика",
+  "linked_id": 1449251119,
+  "members": 6215,
+  "recent_human": 30,
+  "recent_senders": 30,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "wildDev_chat",
+  "title": "WildGrief › Разработка чат",
+  "linked_id": 3526077942,
+  "members": 48,
+  "recent_human": 27,
+  "recent_senders": 13,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "chatsmmskk",
+  "title": "чат RAGE PARTY",
+  "linked_id": 2784043227,
+  "members": 686,
+  "recent_human": 13,
+  "recent_senders": 12,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "marketingkitsya_chat",
+  "title": "Чат Маркетинг Киця | AI | PPC | Meta | Google Ads | Реклама",
+  "linked_id": 2368924306,
+  "members": 850,
+  "recent_human": 19,
+  "recent_senders": 8,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "prostomaltsev",
+  "title": "Мальцев: Карьера. Маркетинг. AI. Chat",
+  "linked_id": 2351058877,
+  "members": 62,
+  "recent_human": 8,
+  "recent_senders": 6,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "samurai_codex_chat",
+  "title": "Самурай Лайфует / Чат 🥷",
+  "linked_id": 2176947532,
+  "members": 137,
+  "recent_human": 7,
+  "recent_senders": 4,
+  "direct": true,
+  "src": "hunter"
+ },
+ {
+  "channel": "neirofotograf54",
+  "title": "Al-Креатор Natali / ПРОМПТЫ Chat",
+  "linked_id": 3508421686,
+  "members": 81,
+  "recent_human": 27,
+  "recent_senders": 7,
+  "direct": true,
+  "src": "hunter"
+ }
+]

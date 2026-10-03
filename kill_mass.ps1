@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process -Filter "Name='python.exe'" | Where-Object { $_.CommandLine -match 'shard_worker|mass_seed|seed_alstack|responder\.py|check_spambot|tgstat_validate|chat_hunter' } | ForEach-Object { Stop-Process -Id $_.ProcessId -Force; Write-Output ("killed " + $_.ProcessId) }

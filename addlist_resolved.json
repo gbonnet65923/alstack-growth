@@ -1,0 +1,678 @@
+{
+ "slug": "1R6yXdAEgokxZTcy",
+ "title": "фвыфафы",
+ "channels": [
+  {
+   "title": "ProTraffic | Арбитраж трафика",
+   "username": "protraffic_com",
+   "id": 1274218092,
+   "megagroup": false,
+   "linked_id": 1247592796,
+   "members": 13251
+  },
+  {
+   "title": "CodeCamp",
+   "username": null,
+   "id": 1333809979,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 180364
+  },
+  {
+   "title": "жиза и арбитраж",
+   "username": "aff_owner",
+   "id": 1387570464,
+   "megagroup": false,
+   "linked_id": 1195354369,
+   "members": 22314
+  },
+  {
+   "title": "AI Projects",
+   "username": "turboproject",
+   "id": 1420733927,
+   "megagroup": false,
+   "linked_id": 1467914348,
+   "members": 11649
+  },
+  {
+   "title": "APPXA free",
+   "username": "appxa",
+   "id": 1460346255,
+   "megagroup": false,
+   "linked_id": 3630745431,
+   "members": 29245
+  },
+  {
+   "title": "Поляков считает: AI, код и кейсы",
+   "username": "countwithsasha",
+   "id": 1480197231,
+   "megagroup": false,
+   "linked_id": 2097983096,
+   "members": 6768
+  },
+  {
+   "title": "Типичный Мамонт",
+   "username": "tmamont",
+   "id": 1487374971,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 54350
+  },
+  {
+   "title": "рис. AI",
+   "username": "ris_ai",
+   "id": 1497220445,
+   "megagroup": false,
+   "linked_id": 1187714594,
+   "members": 5624
+  },
+  {
+   "title": "Львівський Криптан",
+   "username": "lvivcriptan22",
+   "id": 1547175367,
+   "megagroup": false,
+   "linked_id": 1674711461,
+   "members": 39919
+  },
+  {
+   "title": "Вайб-кодинг",
+   "username": "vibecoding_tg",
+   "id": 1555418015,
+   "megagroup": false,
+   "linked_id": 3061072345,
+   "members": 63475
+  },
+  {
+   "title": "ForgetMe | Нейросети",
+   "username": "forgetmeai",
+   "id": 1669170920,
+   "megagroup": false,
+   "linked_id": 2091083757,
+   "members": 17627
+  },
+  {
+   "title": "AGGREGATOR",
+   "username": "WEB3_AGGREGATOR",
+   "id": 1682905740,
+   "megagroup": false,
+   "linked_id": 1719765440,
+   "members": 14539
+  },
+  {
+   "title": "AI и грабли",
+   "username": null,
+   "id": 1741956568,
+   "megagroup": false,
+   "linked_id": 1788662720,
+   "members": 13681
+  },
+  {
+   "title": "Техномотель",
+   "username": "technomotel",
+   "id": 1752992242,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 3113499
+  },
+  {
+   "title": "Ворк в крипте, только хардкор",
+   "username": "workIncrypts",
+   "id": 1774085954,
+   "megagroup": false,
+   "linked_id": 2343035562,
+   "members": 33487
+  },
+  {
+   "title": "Bozdrop Crypto",
+   "username": "bozdrop",
+   "id": 1866013153,
+   "megagroup": false,
+   "linked_id": 1603095720,
+   "members": 3995
+  },
+  {
+   "title": "LLM под капотом",
+   "username": "llm_under_hood",
+   "id": 1943579488,
+   "megagroup": false,
+   "linked_id": 1976968455,
+   "members": 29439
+  },
+  {
+   "title": "SGX / CRYPTO",
+   "username": "crypto_sgx",
+   "id": 2041340502,
+   "megagroup": false,
+   "linked_id": 2356119600,
+   "members": 10540
+  },
+  {
+   "title": "LOLZTEAM",
+   "username": null,
+   "id": 2043631329,
+   "megagroup": false,
+   "linked_id": 2061852918,
+   "members": 232015
+  },
+  {
+   "title": "Таверна КрэгХэка",
+   "username": "craghackstavern",
+   "id": 2114163739,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 3655
+  },
+  {
+   "title": "Look at AI news",
+   "username": "lookatainews",
+   "id": 2304554608,
+   "megagroup": false,
+   "linked_id": 2255364902,
+   "members": 73
+  },
+  {
+   "title": "сбежавшая нейросеть",
+   "username": "ai_exee",
+   "id": 2343435951,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 23856
+  },
+  {
+   "title": "Direcode",
+   "username": "direcode",
+   "id": 2467957293,
+   "megagroup": false,
+   "linked_id": 2481440023,
+   "members": 4246
+  },
+  {
+   "title": "𝗘𝗥𝗥𝗢𝗥 𝗠𝗘𝗧𝗛𝗢𝗗𝗦 👩‍💻",
+   "username": "errormethodsLab1",
+   "id": 2480091741,
+   "megagroup": false,
+   "linked_id": 2248045966,
+   "members": 3297
+  },
+  {
+   "title": "GitHub Radar",
+   "username": "GitHubRadar",
+   "id": 2550218310,
+   "megagroup": false,
+   "linked_id": 3942969355,
+   "members": 27313
+  },
+  {
+   "title": "Глеб Кудрявцев — мастер AI",
+   "username": "gleb_pro_ai",
+   "id": 2553901043,
+   "megagroup": false,
+   "linked_id": 2678281921,
+   "members": 14947
+  },
+  {
+   "title": "sh | ИИ",
+   "username": "shneural",
+   "id": 2555537259,
+   "megagroup": false,
+   "linked_id": 3736232013,
+   "members": 3315
+  },
+  {
+   "title": "Vibecoder | Станислав Быстрицкий",
+   "username": "vibecodings",
+   "id": 2627067435,
+   "megagroup": false,
+   "linked_id": 3335231447,
+   "members": 9597
+  },
+  {
+   "title": "DEKSDEN notes",
+   "username": "deksden_notes",
+   "id": 2702473127,
+   "megagroup": false,
+   "linked_id": 2771751570,
+   "members": 3098
+  },
+  {
+   "title": "News Matrix 🎩",
+   "username": "Matrix_grup",
+   "id": 2860403401,
+   "megagroup": false,
+   "linked_id": 3940862674,
+   "members": 19207
+  },
+  {
+   "title": "ᴛᴍ⁷〆ɴᴀʀᴜᴛᴏ Mᴇᴛʜᴏᴅ",
+   "username": "Naruto_Method",
+   "id": 2877708854,
+   "megagroup": false,
+   "linked_id": 2295343573,
+   "members": 614
+  },
+  {
+   "title": "byNara AI",
+   "username": "bynara_ai",
+   "id": 3483330286,
+   "megagroup": false,
+   "linked_id": 3947095765,
+   "members": 29732
+  },
+  {
+   "title": "SquziAI",
+   "username": "squziai",
+   "id": 3519074313,
+   "megagroup": false,
+   "linked_id": 3727877050,
+   "members": 67
+  },
+  {
+   "title": "MadLeeTs Official",
+   "username": "MaDLeeTsOfficial",
+   "id": 3681140738,
+   "megagroup": false,
+   "linked_id": 2986393121,
+   "members": 7271
+  },
+  {
+   "title": "OpenClaw Lab - Все об OpenClaw",
+   "username": "openclaw_lab",
+   "id": 3697972786,
+   "megagroup": false,
+   "linked_id": 3899429122,
+   "members": 3407
+  },
+  {
+   "title": "Agents Lab",
+   "username": "agents_lab",
+   "id": 3705206831,
+   "megagroup": false,
+   "linked_id": 3721624155,
+   "members": 1003
+  },
+  {
+   "title": "Просто Harness",
+   "username": "HarnessLLM",
+   "id": 3706383719,
+   "megagroup": false,
+   "linked_id": 3850100303,
+   "members": 162
+  },
+  {
+   "title": "ArchiveTel",
+   "username": "ArchiveTell",
+   "id": 3718102196,
+   "megagroup": false,
+   "linked_id": 3979786010,
+   "members": 10146
+  },
+  {
+   "title": "Codex.Sale",
+   "username": "codexsale",
+   "id": 3727440930,
+   "megagroup": false,
+   "linked_id": 3762979762,
+   "members": 7010
+  },
+  {
+   "title": "luciferai频道",
+   "username": "luciferaicc",
+   "id": 3730646387,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 275
+  },
+  {
+   "title": "~/dotfiles",
+   "username": "dotfiles_linux",
+   "id": 3736741651,
+   "megagroup": false,
+   "linked_id": 3512493581,
+   "members": 2828
+  },
+  {
+   "title": "MadLeeTs",
+   "username": "TeaM_MaDLeeT",
+   "id": 3740718513,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 4291
+  },
+  {
+   "title": "GGSoma",
+   "username": "toolais",
+   "id": 3744946394,
+   "megagroup": false,
+   "linked_id": 3987480199,
+   "members": 85266
+  },
+  {
+   "title": "Нейроабьюзер",
+   "username": "neirolinkos",
+   "id": 3757848290,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 369
+  },
+  {
+   "title": "𝗡𝗶𝘁𝗿𝗼 𝗦𝘁𝗼𝗿𝗲",
+   "username": "NiitroStore",
+   "id": 3760500220,
+   "megagroup": false,
+   "linked_id": 3790083305,
+   "members": 2043
+  },
+  {
+   "title": "Jebus IBP",
+   "username": "jebusblack",
+   "id": 3763522918,
+   "megagroup": false,
+   "linked_id": 3838724853,
+   "members": 608
+  },
+  {
+   "title": "KOKORO_SHOP",
+   "username": "kokoro_online",
+   "id": 3782101652,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 5083
+  },
+  {
+   "title": "CLODEx Labs",
+   "username": "clodex_api",
+   "id": 3789053645,
+   "megagroup": false,
+   "linked_id": 4474381176,
+   "members": 8237
+  },
+  {
+   "title": "Бесплатные AI API | GPT, Claude, Gemini",
+   "username": "free_ai_api_ru",
+   "id": 3796145152,
+   "megagroup": false,
+   "linked_id": 3886684010,
+   "members": 448
+  },
+  {
+   "title": "FREE API ASTRA",
+   "username": "mrdevvn",
+   "id": 3965055341,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 1394
+  },
+  {
+   "title": "PixoraDigital",
+   "username": "pixoradigital",
+   "id": 3983963002,
+   "megagroup": false,
+   "linked_id": 3949702008,
+   "members": 3679
+  },
+  {
+   "title": "abyziAI Джейлбрейки/Промты",
+   "username": "JailBreaiki",
+   "id": 4238556950,
+   "megagroup": false,
+   "linked_id": 3928334899,
+   "members": 452
+  },
+  {
+   "title": "AI-Access | rᥲⳋᥱ",
+   "username": "aiaccessrage",
+   "id": 4364285519,
+   "megagroup": false,
+   "linked_id": 4313680191,
+   "members": 218
+  },
+  {
+   "title": "Кибертренды",
+   "username": null,
+   "id": 4369812154,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 1083810
+  },
+  {
+   "title": "ICHINOKATA",
+   "username": "zk_ichinokata",
+   "id": 4397270050,
+   "megagroup": false,
+   "linked_id": null,
+   "members": 260
+  },
+  {
+   "title": "иишко",
+   "username": "AlStack",
+   "id": 4420835850,
+   "megagroup": false,
+   "linked_id": 4430207146,
+   "members": 4352
+  },
+  {
+   "title": "abyzAI абузы ИИ/провайдеры",
+   "username": "abyziAI",
+   "id": 4446957534,
+   "megagroup": false,
+   "linked_id": 4310560610,
+   "members": 1637
+  },
+  {
+   "title": "Flux Unlimited",
+   "username": "flux_unlimited",
+   "id": 4449785403,
+   "megagroup": false,
+   "linked_id": 3518240829,
+   "members": 1010
+  },
+  {
+   "title": "Falcon Labs",
+   "username": "Falconlabs1",
+   "id": 4452272810,
+   "megagroup": false,
+   "linked_id": 4349280841,
+   "members": 904
+  },
+  {
+   "title": "v0",
+   "username": "v0AiNews",
+   "id": 4463040213,
+   "megagroup": false,
+   "linked_id": 4360237293,
+   "members": 16427
+  },
+  {
+   "title": "DanShopAI",
+   "username": "DanShopAl",
+   "id": 4486418756,
+   "megagroup": false,
+   "linked_id": 4418870527,
+   "members": 884
+  },
+  {
+   "title": "[ code ] & эйай",
+   "username": "code_hodlmodeth",
+   "id": 1478789885,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 4349
+  },
+  {
+   "title": "Bozdrop Discussion",
+   "username": "bozdropchat",
+   "id": 1603095720,
+   "megagroup": true,
+   "linked_id": 1866013153,
+   "members": 3135
+  },
+  {
+   "title": "CragHack Chat",
+   "username": "craghack_chat",
+   "id": 1968002455,
+   "megagroup": true,
+   "linked_id": 1892990915,
+   "members": 3129
+  },
+  {
+   "title": "ЗаИИбатый чат",
+   "username": "ai_chat_community",
+   "id": 2357317709,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 604
+  },
+  {
+   "title": "SafeVibeCode.n8n",
+   "username": "SafeVibeCode",
+   "id": 2626090305,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 4201
+  },
+  {
+   "title": "Глеб про AI Chat",
+   "username": "gleb_pro_ai_chat",
+   "id": 2678281921,
+   "megagroup": true,
+   "linked_id": 2553901043,
+   "members": 3016
+  },
+  {
+   "title": "Paragon | Чат",
+   "username": "chatparagonzone",
+   "id": 3136019667,
+   "megagroup": true,
+   "linked_id": 3659887756,
+   "members": 1096
+  },
+  {
+   "title": "FunPay Sellers Group",
+   "username": "FunPaySellersGroup",
+   "id": 3451593474,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 391
+  },
+  {
+   "title": "Дизраптим рейтинг чат",
+   "username": "aostrikov_agents_chat",
+   "id": 3576522523,
+   "megagroup": true,
+   "linked_id": 3674400630,
+   "members": 1106
+  },
+  {
+   "title": "CodexEverywhere",
+   "username": "CodexEverywhere",
+   "id": 3581440936,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 2518
+  },
+  {
+   "title": "Промпты KP",
+   "username": "prompts_kp",
+   "id": 3774622468,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 1803
+  },
+  {
+   "title": "Чат лабы",
+   "username": "valencychat",
+   "id": 3825599679,
+   "megagroup": true,
+   "linked_id": 3782247664,
+   "members": 1650
+  },
+  {
+   "title": "\"U are a h@ck3r Harry\"",
+   "username": "jebussaraj",
+   "id": 3838724853,
+   "megagroup": true,
+   "linked_id": 3763522918,
+   "members": 437
+  },
+  {
+   "title": "Обсуждение Git.py",
+   "username": "Chat_Git",
+   "id": 3912066894,
+   "megagroup": true,
+   "linked_id": 2890390658,
+   "members": 109
+  },
+  {
+   "title": "𝙁𝙧𝙚𝙚 𝙋𝙧𝙤𝙢𝙤𝙩𝙞𝙤𝙣 ⚡",
+   "username": "zedoxchat",
+   "id": 3914031483,
+   "megagroup": true,
+   "linked_id": 4325311936,
+   "members": 986
+  },
+  {
+   "title": "DVIZH Forum AI",
+   "username": "dvizhforum",
+   "id": 3914568408,
+   "megagroup": true,
+   "linked_id": 3912000915,
+   "members": 314
+  },
+  {
+   "title": "DVIZH LAB [RU/EN]",
+   "username": "aidvizh_lab",
+   "id": 3922856266,
+   "megagroup": true,
+   "linked_id": null,
+   "members": 1055
+  },
+  {
+   "title": "Pixora_Family",
+   "username": "pixora_digital",
+   "id": 3949702008,
+   "megagroup": true,
+   "linked_id": 3983963002,
+   "members": 3365
+  },
+  {
+   "title": "Chat Eclipse Node",
+   "username": "EclipseNode_Chat",
+   "id": 3959504188,
+   "megagroup": true,
+   "linked_id": 3504540822,
+   "members": 284
+  },
+  {
+   "title": "Archive Chat",
+   "username": "ArchiveTelll",
+   "id": 3979786010,
+   "megagroup": true,
+   "linked_id": 3718102196,
+   "members": 2507
+  },
+  {
+   "title": "Falcon Labs Chat",
+   "username": "falconlabschat",
+   "id": 4349280841,
+   "megagroup": true,
+   "linked_id": 4452272810,
+   "members": 140
+  },
+  {
+   "title": "AnyModel чат вайбкодеров",
+   "username": "vibecoding_anymodel",
+   "id": 4498098455,
+   "megagroup": true,
+   "linked_id": 4323742714,
+   "members": 10119
+  },
+  {
+   "title": "vimol | chat",
+   "username": "vimol_chat",
+   "id": 1786237855,
+   "megagroup": true,
+   "linked_id": 1891967946,
+   "members": 826
+  }
+ ]
+}
